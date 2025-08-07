@@ -33,7 +33,7 @@ dependencies:
     version: "9.5.2"
     repository: "oci://tccr.io/truecharts"
   - name: jellyfin
-    version: "18.7.7"
+    version: "21.2.1"
     repository: "oci://tccr.io/truecharts"
   - name: flaresolverr
     version: "13.4.1"
